@@ -1,0 +1,18 @@
+{
+  "name": "parallax-celulas",
+  "version": "1.0.0",
+  "description": "PARALLAX · Células: 17 telescópios × 8 instâncias Claude Sonnet para matéria escura e energia escura (Node, sem dependências)",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "teste": "node server.js --teste",
+    "validar": "node server.js --validar",
+    "simular": "node server.js --simular",
+    "simular-api": "node server.js --simular-api"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "license": "UNLICENSED"
+}
